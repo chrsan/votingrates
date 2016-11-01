@@ -1,4 +1,4 @@
-# Learning Well - Code Challenge
+# LearningWell - Code Challenge
 
 ## Översikt
 
