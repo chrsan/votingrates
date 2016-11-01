@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 OS=(darwin linux windows)
 
 for x in ${OS[@]}; do
